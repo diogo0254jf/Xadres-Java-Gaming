@@ -1,4 +1,4 @@
-import javax.swing.text.Position;
+package boardgame;
 
 public class Position {
     private int row;
